@@ -7,4 +7,4 @@
 
 
 ## 2016.9.5 공지사항
-* 강의소개자료 등록
+* 강의소개자료 등록 -> [lecture_ppt/Orientation.pdf](lecture_ppt/Orientation.pdf)
