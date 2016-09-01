@@ -14,8 +14,6 @@
     * MySQL : MySQL Community Server 5.7.x
     * Apache Tomcat 8.x
 
-## 휴강공지
+## 공지사항
 * 2016.9.9(금) : 미래창조과학부 연구과제 발표평가 참석으로 인한 휴강
-
-## 2016.9.2 공지사항
-* 강의소개자료 등록 -> [lecture_ppt/Orientation.pdf](lecture_ppt/Orientation.pdf)
+* 2016.9.2(공통) : 강의소개자료 등록 -> [lecture_ppt/Orientation.pdf](lecture_ppt/Orientation.pdf)
