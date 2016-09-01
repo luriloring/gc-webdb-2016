@@ -6,13 +6,13 @@
 <HR>
 
 ## 과제공지
-    * 공지일 : 2016.9.2
-      * 제출일(수:21일, 금:23일) : 개발환경 셋팅
-      * 과제내용
-        * Java JDK : JavaSE 1.8.x
-        * 이클립스 : 최신버전(neon) , https://www.eclipse.org/downloads/eclipse-packages/ 에서 Eclipse IDE for Java EE Developer
-        * MySQL : MySQL Community Server 5.7.x
-        * Apache Tomcat 8.x
+* 공지일 : 2016.9.2
+  * 제출일(수:21일, 금:23일) : 개발환경 셋팅
+  * 과제내용
+    * Java JDK : JavaSE 1.8.x
+    * 이클립스 : 최신버전(neon) , https://www.eclipse.org/downloads/eclipse-packages/ 에서 Eclipse IDE for Java EE Developer
+    * MySQL : MySQL Community Server 5.7.x
+    * Apache Tomcat 8.x
 
 ## 휴강공지
 * 2016.9.9(금) : 미래창조과학부 연구과제 발표평가 참석으로 인한 휴강
